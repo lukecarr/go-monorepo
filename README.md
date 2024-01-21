@@ -49,7 +49,7 @@ Performs `go test ./...` within each module in the monorepo.
 
 Runs a service in the monorepo (from the provided `<SERVICE>` name).
 
-> [!INFO]
+> [!NOTE]
 > Before running the service, `go mod tidy` is invoked on the service's Go
 > module.
 
