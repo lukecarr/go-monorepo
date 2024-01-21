@@ -5,8 +5,9 @@ import (
 	"log"
 	"net/http"
 
+	"x/osx"
+
 	"github.com/julienschmidt/httprouter"
-	"github.com/lukecarr/go-monorepo/libs/x/osx"
 )
 
 func HelloWorld(w http.ResponseWriter, _ *http.Request, _ httprouter.Params) {

@@ -1,3 +1,3 @@
-module github.com/lukecarr/go-monorepo/libs/osx
+module x
 
 go 1.21.6
