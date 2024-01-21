@@ -1,6 +1,7 @@
 # Go Monorepo
 
-> Go monorepo containing a common library, full-stack web application, REST API, and management CLI
+> Go monorepo containing shared libraries, a full-stack web application, a
+> REST API, and a management CLI.
 
 ## Commands
 
